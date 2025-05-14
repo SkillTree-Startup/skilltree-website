@@ -74,6 +74,6 @@ src/
 └── ...           # Configuration files
 ```
 
-## 📝 License
+## License
 
 This project is private and maintained by SkillTree Fitness.
