@@ -1,14 +1,14 @@
-# SkillTree Fitness Web Application 🌳
+# SkillTree Fitness Web Application
 
 A modern React-based web application for SkillTree Fitness, designed to help users track their fitness journey and progress through a skill-tree based system. Built with TypeScript for type safety and maintainability.
 
-## 🎯 Features
+## Features
 
 - **Email Integration**: Built-in email validation for user communication
 - **Beta Test Signup**: Linked to google drive for backend
 - **Contact us**: Linked to google drive for backend
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 19
 - **Language**: TypeScript
@@ -18,7 +18,7 @@ A modern React-based web application for SkillTree Fitness, designed to help use
 - **Performance**: Web Vitals monitoring
 - **Validation**: Email-validator
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the Repository**
    ```bash
@@ -42,28 +42,28 @@ A modern React-based web application for SkillTree Fitness, designed to help use
    npm run build
    ```
 
-## 📱 Development
+## Development
 
 - `npm start`: Run development server
 - `npm test`: Run test suite
 - `npm run build`: Create production build
 - `npm run deploy`: Deploy to GitHub Pages
 
-## 🧪 Testing
+## Testing
 
 The project includes a comprehensive test suite using Jest and React Testing Library. Run tests with:
 ```bash
 npm test
 ```
 
-## 📦 Deployment
+## Deployment
 
 The application is automatically deployed to GitHub Pages using the gh-pages package. Deploy with:
 ```bash
 npm run deploy
 ```
 
-## 🔧 Project Structure
+## Project Structure
 
 ```
 src/
